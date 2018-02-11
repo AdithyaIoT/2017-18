@@ -1,1 +1,1 @@
-# 2017-18
+Please do not redistribute this code. This is the programs for the Gaia Glove Project, a Novel IoT-Connected Smart Glove with Non-Invasive Biomedical Sensor Ensemble to Prevent Permanent Damage from Cardiovascular Diseases.

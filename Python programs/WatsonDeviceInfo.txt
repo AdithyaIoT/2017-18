@@ -1,0 +1,10 @@
+Organization ID
+9qib2v
+Device Type
+MKR1000
+Device ID
+AdiHealthBand
+Authentication Method
+use-token-auth
+Authentication Token
+Robotman02!!

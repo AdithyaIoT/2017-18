@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>  
+<Response> 
+    <Say> Hello user. It is time for you to take the pill.  Alert from IOT Pill Box</Say>
+    <Play>https://api.twilio.com/Cowbell.mp3</Play>
+</Response>
